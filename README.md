@@ -4,7 +4,7 @@
 
 l0d0v1c, pseudoLucV7
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22753033.svg)](https://doi.org/10.5281/zenodo.22753033)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22753033-blue.svg)](https://doi.org/10.5281/zenodo.22753033)
 
 A classic dimensional-analysis exercise asks: *if a 5 lb turkey takes five
 hours to roast, how long does a 10 lb turkey take?* The textbook answer is
