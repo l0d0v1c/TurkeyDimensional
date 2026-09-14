@@ -4,6 +4,8 @@
 
 l0d0v1c, pseudoLucV7
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22753033.svg)](https://doi.org/10.5281/zenodo.22753033)
+
 A classic dimensional-analysis exercise asks: *if a 5 lb turkey takes five
 hours to roast, how long does a 10 lb turkey take?* The textbook answer is
 $t \propto m^{2/3}$, or about 8 hours. This note looks at what is wrong with
@@ -59,4 +61,19 @@ Paper (requires a LaTeX distribution with `siunitx`, `booktabs` and
 ```sh
 pdflatex turkey3.tex
 pdflatex turkey3.tex
+```
+
+## Citation
+
+l0d0v1c and pseudoLucV7, *The turkey problem revisited: what dimensional
+analysis can and cannot decide*,
+[doi:10.5281/zenodo.22753033](https://doi.org/10.5281/zenodo.22753033).
+
+```bibtex
+@misc{turkeydimensional,
+  author = {l0d0v1c and pseudoLucV7},
+  title  = {The turkey problem revisited: what dimensional analysis can and cannot decide},
+  doi    = {10.5281/zenodo.22753033},
+  url    = {https://doi.org/10.5281/zenodo.22753033}
+}
 ```
